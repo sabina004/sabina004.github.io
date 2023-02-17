@@ -19,3 +19,34 @@ alert("Привет, зайка♥")
 // // }
 // // ];
 // document.querySelector('.books').innerHTML=`<table class="phone"><\phone>`;
+// let books = [{ 
+//     "name": "Little Women", 
+//     "Author":"Louisa May Alcott", 
+//     "Pages": 448 
+//   }, 
+//   { 
+//     "name": "Good Wives", 
+//     "Author":"Louisa May Alcott", 
+//     "Pages": 352
+//   }, 
+//   { 
+//     "name": "Little Men", 
+//     "Author":"Louisa May Alcott", 
+//     "Pages": 384
+//   }] 
+  
+//   let sum = 0; 
+  
+//   for(let i = 0; i < books.length; i++){ 
+//     sum += books[1]['Pages'] 
+//   } 
+  
+//   avg_year = sum / pages.length; 
+  
+//   let Fourth = { 
+//     "name": "Jo's Boys", 
+//     "Author":"Louisa May Alcott", 
+//     "Pages": 	375
+//   } 
+//   document.getElementById("demo").innerHTML = books;
+//   document.getElementById("demo").innerHTML = "My favorite books are: " + books+ "; ";
