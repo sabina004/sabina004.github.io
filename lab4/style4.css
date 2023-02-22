@@ -1,0 +1,20 @@
+.lovely{
+   font-size: 20px;
+    background-color: rgb(206, 161, 248);
+    color: blanchedalmond;
+    border-collapse: collapse;
+}
+.music td{
+    padding:10px;
+    border:2px solid blanchedalmond;
+
+}
+.music td[colspan="2"] {
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(65, 32, 117);
+}
+h1{
+    font-family: Georgia;
+    font-size: 20px;
+}

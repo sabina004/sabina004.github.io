@@ -166,6 +166,9 @@ h6{
         width:400px;
        font-size:23px;
     }
+    .lol{
+        margin-left: 300px;
+    }
 }
 @media screen and (max-width: 724px){
     .bio{
@@ -201,6 +204,9 @@ right:260px;
         height:3000px;
     
     }
+    .lol{
+        margin-left: 200px;
+    }
 }
 @media screen and (max-width: 1295px){
     .kol2{
@@ -212,5 +218,10 @@ right:260px;
         width:300px;
          font-size: 23px;
        
+    }
+}
+@media screen and (max-width: 440px){
+    .lol{
+        margin-left: 150px;
     }
 }
